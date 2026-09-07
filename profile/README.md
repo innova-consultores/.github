@@ -24,14 +24,14 @@ Integramos tres dimensiones para acompañar cada proceso de transformación:
 
 | Estrategia y gestión | Tecnología y desarrollo |
 | --- | --- |
-| Reingeniería de procesos | Tecnologías emergentes |
 | Consultoría IT y gestión de proyectos | Ciberseguridad |
+| Reingeniería de procesos | Tecnologías emergentes |
 | Capacitación y formación | Desarrollos de software a medida |
 
 Con más de 15 años de experiencia en los sectores público y privado, ayudamos a las organizaciones a adaptarse, innovar y crecer.
 
 <div align="center">
 
-  [🌐 Sitio web](https://innovaconsultores.com.ar/) · [💼 Organización en GitHub](https://github.com/innova-consultores)
+  [🌐 Sitio web](https://innovaconsultores.com.ar/) · [💼 GitHub](https://github.com/innova-consultores)
 
 </div>
